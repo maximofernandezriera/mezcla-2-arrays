@@ -80,5 +80,4 @@
 	Para k<-1 hasta n3 Hacer
 		Escribir v3[k]
 	FinPara
-	
-FinAlgoritmo
+	FinAlgoritmo
