@@ -1,4 +1,4 @@
-Algoritmo MezclaEntreDosVectoresOrdenados
+	Algoritmo MezclaEntreDosVectoresOrdenados
 	//Definimos las estructuras de datos
 	Definir tam_max Como Entero
 	//Tamaño maximo del vector
